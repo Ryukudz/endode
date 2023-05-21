@@ -1,7 +1,7 @@
-# Endode
+# Endode 🈚
 Sometimes i want to encode/decode and i am not on my burp suite :)
 
-## ⚙️ Installation
+## Installation ⚙️
 
 ```sh
 git clone https://github.com/Ryukudz/endode
@@ -9,7 +9,7 @@ cd endode
 pip install -r requirements.txt
 ```
 
-## Features
+## Features 🎯
 - URL & double url encode/decode
 - Base64 encode/decode
 - HTML encode/decode

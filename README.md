@@ -1,11 +1,6 @@
 # Endode
 Sometimes i want to encode/decode and i am not on my burp suite :)
 
-## Features
-- filter by extension
-- filter by directory
-- URL decode
-
 ## ⚙️ Installation
 
 ```sh
